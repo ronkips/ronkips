@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronkips
 - 👀 I’m interested in learning new things in programming field everyday.
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate with anybody in learning about python and any programming langauges
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate with anybody in learning about Javascript 
 - 📫 How to reach me through email kipshillash@gmail.com or @ronkips01 on twitter
 
 <!---
