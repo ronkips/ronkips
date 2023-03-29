@@ -4,8 +4,9 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronkips&layout=compact&theme=vision-friendly-dark)]
-(https://github-readme-stats.vercel.app/api?ronkips=anuraghazra&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronkips&layout=compact&theme=vision-friendly-darkanuraghazra&count_private=true)]
+
+<!-- (https://github-readme-stats.vercel.app/api?ronkips=anuraghazra&count_private=true) -->
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
